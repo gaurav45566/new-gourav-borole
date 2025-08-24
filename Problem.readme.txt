@@ -1,0 +1,17 @@
+# Full Stack Developer Screening Test – TANDEMLOOP
+
+### Language Used
+Java 17
+
+### Problems Solved
+- **Problem-1.java** → Calculator using class (Add, Sub, Mul, Div)
+- **Problem-2.java** → Generate odd series till x
+- **Problem-3.java** → Generate conditional odd series till x
+- **Problem-4.java** → Count multiples in dictionary
+
+### How to Run
+```bash
+javac Problem-1.java && java Calculator
+javac Problem-2.java && java Problem2
+javac Problem-3.java && java Problem3
+javac Problem-4.java && java Problem4
